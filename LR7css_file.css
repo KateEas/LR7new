@@ -1,0 +1,24 @@
+#canvas {
+  border: 1px solid black;
+}
+
+#restart {
+  margin-top: 10px;
+}
+
+#div {
+  width: 300px;
+  height: 300px;
+}
+
+
+button {
+  background-color: rgba(17, 129, 17, 0.493);
+  color: white;
+  padding: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  text-shadow: black 0 0 2px;
+  border-radius: 25%;
+
+}
